@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A classic novel depicting racial injustice in the American South.",
+    "cover_image": "https://images.unsplash.com/photo-1515094196796-7a3e39c58978?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel portraying a totalitarian society.",
+    "cover_image": "https://images.unsplash.com/photo-1667039487297-be4ae76e6df1?q=80&w=1412&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic novel exploring themes of love, marriage, and social norms.",
+    "cover_image": "https://images.unsplash.com/photo-1547336010-60c1479ea888?q=80&w=1486&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A tale of the American Dream, wealth, and love during the Roaring Twenties.",
+    "cover_image": "https://images.unsplash.com/photo-1661919370785-bff33a6a7090?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "description": "The epic tale of Captain Ahab's obsession with the white whale.",
+    "cover_image": "https://images.unsplash.com/photo-1656261562181-95c8ccc74274?q=80&w=1330&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
